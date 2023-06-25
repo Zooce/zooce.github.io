@@ -1,0 +1,6 @@
+[book]
+authors = ["Zooce"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Maybe Helpful, Hopefully Interesting"
